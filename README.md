@@ -24,6 +24,25 @@ Tendencias tecnologicas - Prof. Marco Guaman
 
 -----
 -----
-# **Server web - INDEX.HTML**
------
+
+# **SERVER WEB - INSERT NEW INDEX.HTML**
+***
+## Creamos una nueva instancia, donde insertaremos el codigo para correr un servidor
+docker run --name nombreServer -p 80:80 -d nginx
+
+
+## Luego creamos un archivo HTML. Ingresamos el codigo "vi nombreArchivo.html"
+
+
+## En la terminal, escribimos el codigo o el texto a visualizarse en el archivo. Para salir y guardar, teclamos "ESC" y escrbimos ":wq" y ENTER
+
+
+## Ahora, debe insertar el archivo con el siguiente comando
+docker cp nombreArchivo.html nombreServer:/usr/share/nginx/html/nombreArchivo.html
+
+## Abrimos el server ingresando el número del puerto
+
+## Al abriser una nueva ventana, agregamos en la URL "/nombreArchivo.html"
+
+## Finalmente se nos abrirá el documento creado con la información ingresada
 

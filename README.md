@@ -50,11 +50,13 @@ docker cp nombreArchivo.html nombreServer:/usr/share/nginx/html/nombreArchivo.ht
 
 ![open-port5](/clase-2/open-port5.png)
 
-## Al abriser una nueva ventana, agregamos en la URL "/nombreArchivo.html"
+## Al abrirse una nueva ventana, agregamos en la URL "/nombreArchivo.html"
 
 ![edit-URL6](/clase-2/edit-URL6.png)
 
 ## Finalmente se nos abrirá el documento creado con la información ingresada
 
 ![ventana-html7](/clase-2/ventana-html7.png)
+
+------
 

@@ -29,7 +29,7 @@ Tendencias tecnologicas - Prof. Marco Guaman
 ***
 ## Creamos una nueva instancia, donde insertaremos el codigo para correr un servidor
 docker run --name nombreServer -p 80:80 -d nginx
-
+![run-server](/clase-2/run-server1.png)
 
 ## Luego creamos un archivo HTML. Ingresamos el codigo "vi nombreArchivo.html"
 

@@ -22,8 +22,7 @@ Tendencias tecnologicas - Prof. Marco Guaman
 ## Por último, redigirá a una nueva ventana donde se puede observar el contenedor creado
 ![new-window-ngnix](https://user-images.githubusercontent.com/91167225/197311083-af28c1e6-38c8-48a0-b450-5b64d093e674.jpg)
 
-------------------------------------
-------------------------------------
+=============
 
 # **Server web - INDEX.HTML**
 

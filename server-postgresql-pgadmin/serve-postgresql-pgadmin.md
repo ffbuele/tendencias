@@ -3,7 +3,7 @@
 ---
 ## **1.-** Primero debe abrir el Play With Docker y crear una nueva instancia
 
-![open-container](/img/1-open-container.png)
+![open-container](/server-postgresql-pgadmin/img/1-open-container.png)
 
 ## **2.-** Luego escribir el código donde se detalla el nombre, contraseña y el puerto del contenedor del Postgres
 

@@ -33,3 +33,11 @@
 
 ![open-port-pgadmin-8090](/server-postgresql-pgadmin/img/8-open-port-pgadmin-8090.png)
 ![ingresar-credenciales-pgadmin](/server-postgresql-pgadmin/img/9-ingresar-credenciales-pgadmin.png)
+
+## **9.-** Debe agregar un servidor, para ello hace click en añadir server, donde va a configurar el nombre, ingresar el nombre del contenedor, usuario y contraseña para que pueda crearse el mismo.
+
+![settings-server](/server-postgresql-pgadmin/img/10-settings-server.png)
+
+## **10.-** Al final, tendrá la interfaz del servidor.
+
+![server-created](/server-postgresql-pgadmin/img/11-server-created.png)

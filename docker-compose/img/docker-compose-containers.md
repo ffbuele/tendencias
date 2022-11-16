@@ -1,4 +1,4 @@
-# CREAR DOCKER-COMPOSE PARA PGADMIN Y POSTGRES
+# TAREA CREAR DOCKER-COMPOSE PARA PGADMIN Y POSTGRES
 ---
 ## 1.- Crear una nueva instancia en la sesión de play with Docker
 

@@ -18,7 +18,7 @@
 
 ## 5.- En la consola debe correr el siguiente comando "docker-compose up -d" para ejecutar el archivo yml
 
-![ejercutar-archivo-yml](/docker-compose/img/5.1-ejercutar-archivo-yml.png)
+![ejercutar-archivo-yml](/docker-compose/img/5.1-ejecutar-archivo-yml.png)
 
 ![ejecucion-completa](/docker-compose/img/5.2-ejecucion-completa.png)
 

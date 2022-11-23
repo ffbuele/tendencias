@@ -10,11 +10,11 @@
 
 ## 3.- Dentro del archivo, debe detallarse los parametros, nombre, puertos, credenciales, etc. Luego, se guarda y sale del editor.
 
-![insertar-informacion-docker](/postgres-springBoot/img/4-insertar-informacion-docker.png)
+![insertar-informacion-docker](/postgres-springBoot/img/3-insertar-informacion-docker.png)
 
 ## 4.- En la consola debe correr el siguiente comando "docker-compose up -d" para ejecutar el archivo yml
 
-![ejercutar-archivo-yml](/postgres-springBoot/img/4-ejercutar-archivo-yml.png)
+![ejercutar-archivo-yml](/postgres-springBoot/img/4-ejecutar-archivo-yml.png)
 
 ## 5.- Luego de que se generen los contenedores, abrir el puerto 8090 donde tenemos la interfaz del pgadmin.
 

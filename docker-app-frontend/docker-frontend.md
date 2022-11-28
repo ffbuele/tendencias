@@ -150,4 +150,4 @@ Al navegar a "Usuarios", debemos observar la información recopilada de la base 
 
 Si se puede observar correctamente la información de los usuarios, se ha realizado correctamente el tutorial, concluyendo todo el proceso satisfactoriamente.
 
-<center> <img src="./img/16.2-react-fe-**datosDB**.png" style="max-width: 68%"> </center>
+<center> <img src="./img/16.2-react-fe-datosDB.png" style="max-width: 68%"> </center>
